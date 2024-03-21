@@ -12,7 +12,7 @@ I completed a **Full Stack Development bootcamp** at CodeOp. You can find more a
 - Back-end: Node.js, Express, JWT, bcrypt.
 
 ## Experience
-- Developed full-stack apps during bootcamp and at [Jointure] (https://jointurenow.myshopify.com/pages/descubre-1), a Barcelona strat-up. 
+- Developed full-stack apps during bootcamp and at [Jointure](https://jointurenow.myshopify.com/pages/descubre-1)), a Barcelona strat-up. 
 - Skilled in vanilla JavaScript and using Express to connect endpoints.
 - Strong background in applied arts aids design despite opinionated CSS.
 
@@ -24,7 +24,7 @@ I completed a **Full Stack Development bootcamp** at CodeOp. You can find more a
 ## Community Involvement
 
 - I co-organize LGBT+ Tech meet-ups in Barcelona, providing a safe space for LGBTQIA+ individuals in the tech industry.
-  You can check our next event here : [LGBT+Tech Barcelona] (https://www.meetup.com/es-ES/lgbt-tech-barcelona/)
+  You can check our next event here : [LGBT+Tech Barcelona](https://www.meetup.com/es-ES/lgbt-tech-barcelona/)
 
   I was invited to speak about intersectionality in Tech, you can see the recording here [Navigating in betweeness](https://www.youtube.com/watch?v=2KQiJcu99z4&ab_channel=AndreaCort%C3%A9s)
 
@@ -40,5 +40,15 @@ Front-end : I used React and really enjoyed playing with libraries like Bootstra
 My passion for communication and knowledge of invisible disability has led me to be a very acute UX designer. I am able to identify and provide solutions to make a website and processes more accessible. 
 
 Back-end: We used node.js and express among other tools like JWT and bcrypt to protect passwords and make authentication-authorization. My comfort lies in vanilla Javascript and using Express to connect endpoints. I struggled my way to make an admin restricted area in the mentor matcher, nevertheless I made it successfully (in only 1 week). 
+
+
+##Contact Info 
+
+You can find me on : 
+
+[Linkedin](https://www.linkedin.com/in/acu-andrea-cortes/)
+My email is : anfrescortes@gmail.com
+I live in Barcelona 
+
 
 
