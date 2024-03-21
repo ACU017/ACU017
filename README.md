@@ -4,7 +4,7 @@ I’m **Andrea Cortes,** Full Stack Developer, Polyglot, and Writer
 
 I hope you enjoy the projects I've uploaded here. 
 
-I completed a **Full Stack Development bootcamp** at CodeOp. You can find more about my school [here]([link_to_school](https://codeop.tech/)).
+I completed a **Full Stack Development bootcamp** at CodeOp. You can find more about my school [here]([link_to_school](https://codeop.tech/))
 
 ## Tech Stack
 - Main stack: (M)ERN, with MongoDB certification in progress.
@@ -12,7 +12,7 @@ I completed a **Full Stack Development bootcamp** at CodeOp. You can find more a
 - Back-end: Node.js, Express, JWT, bcrypt.
 
 ## Experience
-- Developed full-stack apps during bootcamp and at [Jointure](https://jointurenow.myshopify.com/pages/descubre-1)), a Barcelona strat-up. 
+- Developed full-stack apps during bootcamp and at [Jointure](https://jointurenow.myshopify.com/pages/descubre-1), a Barcelona strat-up. 
 - Skilled in vanilla JavaScript and using Express to connect endpoints.
 - Strong background in applied arts aids design despite opinionated CSS.
 
@@ -42,12 +42,14 @@ My passion for communication and knowledge of invisible disability has led me to
 Back-end: We used node.js and express among other tools like JWT and bcrypt to protect passwords and make authentication-authorization. My comfort lies in vanilla Javascript and using Express to connect endpoints. I struggled my way to make an admin restricted area in the mentor matcher, nevertheless I made it successfully (in only 1 week). 
 
 
-##Contact Info 
+## Contact Info 
 
 You can find me on : 
 
 [Linkedin](https://www.linkedin.com/in/acu-andrea-cortes/)
+
 My email is : anfrescortes@gmail.com
+
 I live in Barcelona 
 
 
