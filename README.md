@@ -1,8 +1,10 @@
-# I’m Andrea Cortes 
+# Welcome to my GitHub profile! 
 
-I’m a Full Stack Developer, Polyglot, and Writer 
+I’m Andrea Cortes, Full Stack Developer, Polyglot, and Writer 
 
-Welcome to my GitHub profile! I hope you enjoy the projects I've uploaded here. I completed a Full Stack Development bootcamp at CodeOp. You can find more about my school [here]([link_to_school](https://codeop.tech/)).
+I hope you enjoy the projects I've uploaded here. 
+
+I completed a Full Stack Development bootcamp at CodeOp. You can find more about my school [here]([link_to_school](https://codeop.tech/)).
 
 ## Tech Stack
 - Main stack: (M)ERN, with MongoDB certification in progress.
