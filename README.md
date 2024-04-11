@@ -4,7 +4,7 @@ I’m **Andrea Cortes,** Full Stack Developer, Polyglot, and Writer
 
 I hope you enjoy the projects I've uploaded here. 
 
-I completed a **Full Stack Development bootcamp** at CodeOp. You can find more about my school [here](https://codeop.tech/)
+I completed a **Full Stack Development bootcamp** at CodeOp. You can find more about my school [here](https://codeop.tech/) where now I'm a Teacher Assistant ! 
 
 ## Tech Stack
 - Main stack: (M)ERN, with MongoDB certification in progress.
